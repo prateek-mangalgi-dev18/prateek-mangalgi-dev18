@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Prateek Mangalgi  
 **Full-Stack • Backend • AI & Systems Developer**
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=900&color=3AAFF8&center=true&vCenter=true&width=650&lines=Backend+Systems;AI+Applications;Full-Stack+Developer;FinTech+Focus;Scalable+Code" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=900&color=3AAFF8&center=true&vCenter=true&width=650&lines=Backend+Systems;AI+Applications;Full-Stack+Developer;Scalable+Code" /></p>
 
 
 ---
