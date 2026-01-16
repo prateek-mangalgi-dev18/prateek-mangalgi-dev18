@@ -84,9 +84,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prateek-mangalgi-dev18&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=prateek-mangalgi-dev18&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=prateek-mangalgi-dev18&theme=radical" />
+</p>
 
 
 ---
