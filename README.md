@@ -83,13 +83,22 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=prateek-mangalgi-dev18&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=prateek-mangalgi-dev18&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prateek-mangalgi-dev18&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prateek-mangalgi-dev18&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
-![Contribution Snake](https://github.com/prateek-mangalgi-dev18/prateek-mangalgi-dev18/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prateek-mangalgi-dev18/prateek-mangalgi-dev18/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
