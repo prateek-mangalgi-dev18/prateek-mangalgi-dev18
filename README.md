@@ -26,7 +26,6 @@
 ## 🧰 Tech Stack
 
 ### 👨‍💻 Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
@@ -63,6 +62,7 @@
 ### 🤖 AI / LLM Stack
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google)
+![Mistral](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-3C5CFF?style=for-the-badge)
