@@ -82,13 +82,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=prateek-mangalgi-dev18&theme=radical" />
-</p>
-
-
----
 
 ### 🔥 Building reliable systems. Solving real problems. Always learning.
